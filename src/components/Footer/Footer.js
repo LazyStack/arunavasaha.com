@@ -25,10 +25,10 @@ const Footer = () => {
           <Slogan>What separates design from art is that design is meant to be… functional.</Slogan>
         </CompanyContainer>
        <SocialContainer>
-        <SocialIcons href = "https://github.com">
+        <SocialIcons href = "https://github.com/LazyStack">
           <AiFillGithub size = "3rem"></AiFillGithub>
         </SocialIcons>
-        <SocialIcons href = "https://linkedin.com">
+        <SocialIcons href = "https://www.linkedin.com/in/arunava-saha-3759a3164/">
           <AiFillLinkedin size = "3rem"></AiFillLinkedin>
         </SocialIcons>
         </SocialContainer>
