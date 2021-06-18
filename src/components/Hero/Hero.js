@@ -19,7 +19,7 @@ const Hero = (props) => (
       A Backend Web Developer passionate about creating interactive applications and learning more frameworks.
       </SectionText>
       <SectionText><br></br></SectionText>
-      <Button onClick ={() => window.location = 'https://google.com'} >Download Resume</Button>
+      <Button onClick ={() => window.location = 'https://drive.google.com/file/d/1UsR12dUBV3Qae1-0i-_VhlPtYmeb6OVS/view?usp=sharing'} >Download Resume</Button>
     </LeftSection>
   </Section>
 );
