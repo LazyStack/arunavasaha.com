@@ -17,8 +17,9 @@ const Technologies = () =>  (
           <ListContainer>
             <ListTitle>Back-End</ListTitle>
             <ListParagraph>
-              Experience with <br/>
-              PHP and .NET
+              Spring Boot <br/>
+              AWS RDS <br />
+              Microsoft SQL Server
             </ListParagraph>
           </ListContainer>
         </ListItem>
@@ -29,7 +30,6 @@ const Technologies = () =>  (
           <ListContainer>
             <ListTitle>Front-End</ListTitle>
             <ListParagraph>
-              Experience with <br/>
               React
             </ListParagraph>
           </ListContainer>
@@ -41,8 +41,7 @@ const Technologies = () =>  (
             <ListContainer>
               <ListTitle>Frameworks</ListTitle>
               <ListParagraph>
-                Experience with <br/>
-                Angular 
+                ASP.NET 
               </ListParagraph>
             </ListContainer>
         </ListItem>
